@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hero07/shopPicture/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Hero07/shopPicture/static/js/main.dbd5205d.chunk.js",
+    "main.js.map": "/Hero07/shopPicture/static/js/main.dbd5205d.chunk.js.map",
+    "runtime-main.js": "/Hero07/shopPicture/static/js/runtime-main.4e23a157.js",
+    "runtime-main.js.map": "/Hero07/shopPicture/static/js/runtime-main.4e23a157.js.map",
+    "static/js/2.a5bd7084.chunk.js": "/Hero07/shopPicture/static/js/2.a5bd7084.chunk.js",
+    "static/js/2.a5bd7084.chunk.js.map": "/Hero07/shopPicture/static/js/2.a5bd7084.chunk.js.map",
+    "index.html": "/Hero07/shopPicture/index.html",
+    "precache-manifest.329e8aeafc5aefc79534ae6f3f7024a7.js": "/Hero07/shopPicture/precache-manifest.329e8aeafc5aefc79534ae6f3f7024a7.js",
+    "service-worker.js": "/Hero07/shopPicture/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Hero07/shopPicture/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Hero07/shopPicture/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e23a157.js",
+    "static/js/2.a5bd7084.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.dbd5205d.chunk.js"
+  ]
+}
